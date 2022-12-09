@@ -1,0 +1,148 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}Overview}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}CE103-\/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}HW3-\/2022 Helper}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Namespace Index}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Namespace List}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}Data Structure Index}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Data Structures}{7}{section.4.1}%
+\contentsline {chapter}{\numberline {5}File Index}{9}{chapter.5}%
+\contentsline {section}{\numberline {5.1}File List}{9}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Namespace Documentation}{11}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Bookfeatures Namespace Reference}{11}{section.6.1}%
+\contentsline {section}{\numberline {6.2}File\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Operation Namespace Reference}{11}{section.6.2}%
+\contentsline {section}{\numberline {6.3}library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}manager\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}app Namespace Reference}{11}{section.6.3}%
+\contentsline {section}{\numberline {6.4}library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}manager\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dll\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}test Namespace Reference}{11}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management Namespace Reference}{11}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Main Namespace Reference}{11}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Data Structure Documentation}{13}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Bookfeatures.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Book\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Feature Class Reference}{13}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Member Function Documentation}{14}{subsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.1}BookToByteArrayBlock()}{14}{subsubsection.7.1.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.1.2}ByteArrayBlockToBook()}{15}{subsubsection.7.1.1.2}%
+\contentsline {subsection}{\numberline {7.1.2}Field Documentation}{16}{subsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.2.1}\_authors}{16}{subsubsection.7.1.2.1}%
+\contentsline {subsubsection}{\numberline {7.1.2.2}\_categories}{16}{subsubsection.7.1.2.2}%
+\contentsline {subsubsection}{\numberline {7.1.2.3}\_city}{16}{subsubsection.7.1.2.3}%
+\contentsline {subsubsection}{\numberline {7.1.2.4}\_description}{16}{subsubsection.7.1.2.4}%
+\contentsline {subsubsection}{\numberline {7.1.2.5}\_doi}{16}{subsubsection.7.1.2.5}%
+\contentsline {subsubsection}{\numberline {7.1.2.6}\_edition}{16}{subsubsection.7.1.2.6}%
+\contentsline {subsubsection}{\numberline {7.1.2.7}\_editors}{16}{subsubsection.7.1.2.7}%
+\contentsline {subsubsection}{\numberline {7.1.2.8}\_id}{16}{subsubsection.7.1.2.8}%
+\contentsline {subsubsection}{\numberline {7.1.2.9}\_isbn}{17}{subsubsection.7.1.2.9}%
+\contentsline {subsubsection}{\numberline {7.1.2.10}\_pages}{17}{subsubsection.7.1.2.10}%
+\contentsline {subsubsection}{\numberline {7.1.2.11}\_price}{17}{subsubsection.7.1.2.11}%
+\contentsline {subsubsection}{\numberline {7.1.2.12}\_publisher}{17}{subsubsection.7.1.2.12}%
+\contentsline {subsubsection}{\numberline {7.1.2.13}\_rack}{17}{subsubsection.7.1.2.13}%
+\contentsline {subsubsection}{\numberline {7.1.2.14}\_row}{17}{subsubsection.7.1.2.14}%
+\contentsline {subsubsection}{\numberline {7.1.2.15}\_title}{17}{subsubsection.7.1.2.15}%
+\contentsline {subsubsection}{\numberline {7.1.2.16}\_url}{17}{subsubsection.7.1.2.16}%
+\contentsline {subsubsection}{\numberline {7.1.2.17}\_year}{17}{subsubsection.7.1.2.17}%
+\contentsline {subsubsection}{\numberline {7.1.2.18}AUTHORS\_NAME\_MAX\_LENGTH}{17}{subsubsection.7.1.2.18}%
+\contentsline {subsubsection}{\numberline {7.1.2.19}BOOK\_DATA\_BLOCK\_SIZE}{17}{subsubsection.7.1.2.19}%
+\contentsline {subsubsection}{\numberline {7.1.2.20}CATEGORY\_NAME\_MAX\_LENGTH}{18}{subsubsection.7.1.2.20}%
+\contentsline {subsubsection}{\numberline {7.1.2.21}CITY\_MAX\_LENGTH}{18}{subsubsection.7.1.2.21}%
+\contentsline {subsubsection}{\numberline {7.1.2.22}DESCRIPTION\_MAX\_LENGTH}{18}{subsubsection.7.1.2.22}%
+\contentsline {subsubsection}{\numberline {7.1.2.23}DOI\_MAX\_LENGTH}{18}{subsubsection.7.1.2.23}%
+\contentsline {subsubsection}{\numberline {7.1.2.24}EDITION\_MAX\_LENGTH}{18}{subsubsection.7.1.2.24}%
+\contentsline {subsubsection}{\numberline {7.1.2.25}EDITORS\_MAX\_LENGTH}{18}{subsubsection.7.1.2.25}%
+\contentsline {subsubsection}{\numberline {7.1.2.26}ID\_LENGTH}{18}{subsubsection.7.1.2.26}%
+\contentsline {subsubsection}{\numberline {7.1.2.27}ISBN\_MAX\_LENGTH}{18}{subsubsection.7.1.2.27}%
+\contentsline {subsubsection}{\numberline {7.1.2.28}PAGES\_MAX\_LENGTH}{18}{subsubsection.7.1.2.28}%
+\contentsline {subsubsection}{\numberline {7.1.2.29}PRICE\_MAX\_LENGTH}{19}{subsubsection.7.1.2.29}%
+\contentsline {subsubsection}{\numberline {7.1.2.30}PUBLISHERS\_MAX\_LENGTH}{19}{subsubsection.7.1.2.30}%
+\contentsline {subsubsection}{\numberline {7.1.2.31}RACK\_MAX\_LENGTH}{19}{subsubsection.7.1.2.31}%
+\contentsline {subsubsection}{\numberline {7.1.2.32}ROW\_MAX\_LENGTH}{19}{subsubsection.7.1.2.32}%
+\contentsline {subsubsection}{\numberline {7.1.2.33}TITLE\_MAX\_LENGTH}{19}{subsubsection.7.1.2.33}%
+\contentsline {subsubsection}{\numberline {7.1.2.34}URL\_MAX\_LENGTH}{19}{subsubsection.7.1.2.34}%
+\contentsline {subsubsection}{\numberline {7.1.2.35}YEAR\_MAX\_LENGTH}{19}{subsubsection.7.1.2.35}%
+\contentsline {subsection}{\numberline {7.1.3}Property Documentation}{19}{subsection.7.1.3}%
+\contentsline {subsubsection}{\numberline {7.1.3.1}Authors}{19}{subsubsection.7.1.3.1}%
+\contentsline {subsubsection}{\numberline {7.1.3.2}Categories}{19}{subsubsection.7.1.3.2}%
+\contentsline {subsubsection}{\numberline {7.1.3.3}City}{20}{subsubsection.7.1.3.3}%
+\contentsline {subsubsection}{\numberline {7.1.3.4}Description}{20}{subsubsection.7.1.3.4}%
+\contentsline {subsubsection}{\numberline {7.1.3.5}DOI}{20}{subsubsection.7.1.3.5}%
+\contentsline {subsubsection}{\numberline {7.1.3.6}Edition}{20}{subsubsection.7.1.3.6}%
+\contentsline {subsubsection}{\numberline {7.1.3.7}Editors}{20}{subsubsection.7.1.3.7}%
+\contentsline {subsubsection}{\numberline {7.1.3.8}Id}{20}{subsubsection.7.1.3.8}%
+\contentsline {subsubsection}{\numberline {7.1.3.9}ISBN}{20}{subsubsection.7.1.3.9}%
+\contentsline {subsubsection}{\numberline {7.1.3.10}Pages}{20}{subsubsection.7.1.3.10}%
+\contentsline {subsubsection}{\numberline {7.1.3.11}Price}{20}{subsubsection.7.1.3.11}%
+\contentsline {subsubsection}{\numberline {7.1.3.12}Publishers}{21}{subsubsection.7.1.3.12}%
+\contentsline {subsubsection}{\numberline {7.1.3.13}Rack}{21}{subsubsection.7.1.3.13}%
+\contentsline {subsubsection}{\numberline {7.1.3.14}Row}{21}{subsubsection.7.1.3.14}%
+\contentsline {subsubsection}{\numberline {7.1.3.15}Title}{21}{subsubsection.7.1.3.15}%
+\contentsline {subsubsection}{\numberline {7.1.3.16}URL}{21}{subsubsection.7.1.3.16}%
+\contentsline {subsubsection}{\numberline {7.1.3.17}Years}{21}{subsubsection.7.1.3.17}%
+\contentsline {section}{\numberline {7.2}library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}manager\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}dll\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}test.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Book\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tests Class Reference}{21}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Member Function Documentation}{21}{subsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.1.1}TestMethod1()}{21}{subsubsection.7.2.1.1}%
+\contentsline {section}{\numberline {7.3}Library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Management.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Conversion\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Utility Class Reference}{22}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Member Function Documentation}{22}{subsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.1.1}ByteArrayToInteger()}{22}{subsubsection.7.3.1.1}%
+\contentsline {subsubsection}{\numberline {7.3.1.2}ByteArrayToString()}{22}{subsubsection.7.3.1.2}%
+\contentsline {subsubsection}{\numberline {7.3.1.3}GetInt()}{22}{subsubsection.7.3.1.3}%
+\contentsline {subsubsection}{\numberline {7.3.1.4}IntegerToByteArray()}{23}{subsubsection.7.3.1.4}%
+\contentsline {subsubsection}{\numberline {7.3.1.5}IsHex()}{23}{subsubsection.7.3.1.5}%
+\contentsline {subsubsection}{\numberline {7.3.1.6}StringToByteArray()}{23}{subsubsection.7.3.1.6}%
+\contentsline {subsubsection}{\numberline {7.3.1.7}ToAscii()}{23}{subsubsection.7.3.1.7}%
+\contentsline {subsubsection}{\numberline {7.3.1.8}ToByte()}{23}{subsubsection.7.3.1.8}%
+\contentsline {subsubsection}{\numberline {7.3.1.9}ToHex()}{23}{subsubsection.7.3.1.9}%
+\contentsline {section}{\numberline {7.4}File\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Operation.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}File\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Utility Class Reference}{24}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Member Function Documentation}{24}{subsection.7.4.1}%
+\contentsline {subsubsection}{\numberline {7.4.1.1}AppendBlock()}{24}{subsubsection.7.4.1.1}%
+\contentsline {subsubsection}{\numberline {7.4.1.2}AppendBlock2()}{24}{subsubsection.7.4.1.2}%
+\contentsline {subsubsection}{\numberline {7.4.1.3}DeleteBlock()}{24}{subsubsection.7.4.1.3}%
+\contentsline {subsubsection}{\numberline {7.4.1.4}ReadBlock()}{25}{subsubsection.7.4.1.4}%
+\contentsline {subsubsection}{\numberline {7.4.1.5}UpdateBlock()}{25}{subsubsection.7.4.1.5}%
+\contentsline {section}{\numberline {7.5}Main.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Main\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Screen Class Reference}{25}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Member Function Documentation}{26}{subsection.7.5.1}%
+\contentsline {subsubsection}{\numberline {7.5.1.1}AddBook()}{26}{subsubsection.7.5.1.1}%
+\contentsline {subsubsection}{\numberline {7.5.1.2}AddBook2()}{26}{subsubsection.7.5.1.2}%
+\contentsline {subsubsection}{\numberline {7.5.1.3}ControlFile()}{27}{subsubsection.7.5.1.3}%
+\contentsline {subsubsection}{\numberline {7.5.1.4}PullBook()}{27}{subsubsection.7.5.1.4}%
+\contentsline {section}{\numberline {7.6}library\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}manager\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}\_\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}app.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Program1 Class Reference}{28}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Member Function Documentation}{28}{subsection.7.6.1}%
+\contentsline {subsubsection}{\numberline {7.6.1.1}Main()}{28}{subsubsection.7.6.1.1}%
+\contentsline {subsection}{\numberline {7.6.2}Field Documentation}{29}{subsection.7.6.2}%
+\contentsline {subsubsection}{\numberline {7.6.2.1}Author}{29}{subsubsection.7.6.2.1}%
+\contentsline {subsubsection}{\numberline {7.6.2.2}c}{29}{subsubsection.7.6.2.2}%
+\contentsline {subsubsection}{\numberline {7.6.2.3}Category}{29}{subsubsection.7.6.2.3}%
+\contentsline {subsubsection}{\numberline {7.6.2.4}City}{29}{subsubsection.7.6.2.4}%
+\contentsline {subsubsection}{\numberline {7.6.2.5}Describe}{29}{subsubsection.7.6.2.5}%
+\contentsline {subsubsection}{\numberline {7.6.2.6}DOI}{29}{subsubsection.7.6.2.6}%
+\contentsline {subsubsection}{\numberline {7.6.2.7}Edition}{30}{subsubsection.7.6.2.7}%
+\contentsline {subsubsection}{\numberline {7.6.2.8}Edition\_Control}{30}{subsubsection.7.6.2.8}%
+\contentsline {subsubsection}{\numberline {7.6.2.9}Editor}{30}{subsubsection.7.6.2.9}%
+\contentsline {subsubsection}{\numberline {7.6.2.10}ID}{30}{subsubsection.7.6.2.10}%
+\contentsline {subsubsection}{\numberline {7.6.2.11}ID\_Control}{30}{subsubsection.7.6.2.11}%
+\contentsline {subsubsection}{\numberline {7.6.2.12}ISBN}{30}{subsubsection.7.6.2.12}%
+\contentsline {subsubsection}{\numberline {7.6.2.13}Page}{30}{subsubsection.7.6.2.13}%
+\contentsline {subsubsection}{\numberline {7.6.2.14}Page\_Control}{30}{subsubsection.7.6.2.14}%
+\contentsline {subsubsection}{\numberline {7.6.2.15}Price}{30}{subsubsection.7.6.2.15}%
+\contentsline {subsubsection}{\numberline {7.6.2.16}Publisher}{30}{subsubsection.7.6.2.16}%
+\contentsline {subsubsection}{\numberline {7.6.2.17}Rack}{31}{subsubsection.7.6.2.17}%
+\contentsline {subsubsection}{\numberline {7.6.2.18}Row}{31}{subsubsection.7.6.2.18}%
+\contentsline {subsubsection}{\numberline {7.6.2.19}SearchID}{31}{subsubsection.7.6.2.19}%
+\contentsline {subsubsection}{\numberline {7.6.2.20}Title}{31}{subsubsection.7.6.2.20}%
+\contentsline {subsubsection}{\numberline {7.6.2.21}Url}{31}{subsubsection.7.6.2.21}%
+\contentsline {subsubsection}{\numberline {7.6.2.22}Year}{31}{subsubsection.7.6.2.22}%
+\contentsline {subsubsection}{\numberline {7.6.2.23}Year\_Control}{31}{subsubsection.7.6.2.23}%
+\contentsline {chapter}{\numberline {8}File Documentation}{33}{chapter.8}%
+\contentsline {section}{\numberline {8.1}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/docs/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Sample\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Markdown\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}File.md File Reference}{33}{section.8.1}%
+\contentsline {section}{\numberline {8.2}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/app/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{33}{section.8.2}%
+\contentsline {section}{\numberline {8.3}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/app/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Release/.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{33}{section.8.3}%
+\contentsline {section}{\numberline {8.4}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll-\/test/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{33}{section.8.4}%
+\contentsline {section}{\numberline {8.5}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll-\/test/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Release/.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{33}{section.8.5}%
+\contentsline {section}{\numberline {8.6}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Debug/.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{33}{section.8.6}%
+\contentsline {section}{\numberline {8.7}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll/obj/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Release/.NETFramework,Version=v4.7.2.Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Attributes.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cs File Reference}{33}{section.8.7}%
+\contentsline {section}{\numberline {8.8}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/app/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Program.cs File Reference}{33}{section.8.8}%
+\contentsline {section}{\numberline {8.9}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/app/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Properties/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.cs File Reference}{34}{section.8.9}%
+\contentsline {section}{\numberline {8.10}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll-\/test/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Properties/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.cs File Reference}{34}{section.8.10}%
+\contentsline {section}{\numberline {8.11}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Properties/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Assembly\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Info.cs File Reference}{34}{section.8.11}%
+\contentsline {section}{\numberline {8.12}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll-\/test/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Book\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Tests.cs File Reference}{34}{section.8.12}%
+\contentsline {section}{\numberline {8.13}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Book\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Features.cs File Reference}{34}{section.8.13}%
+\contentsline {section}{\numberline {8.14}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Conversion\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Utility.cs File Reference}{34}{section.8.14}%
+\contentsline {section}{\numberline {8.15}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}File\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Utility.cs File Reference}{34}{section.8.15}%
+\contentsline {section}{\numberline {8.16}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/library-\/manager-\/dll/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Main\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Screen.cs File Reference}{35}{section.8.16}%
+\contentsline {section}{\numberline {8.17}C\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}:/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Users/gokay/do/ce103-\/hw3-\/gokay-\/dervisoglu/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}README.md File Reference}{35}{section.8.17}%
+\contentsline {chapter}{Index}{37}{section*.48}%

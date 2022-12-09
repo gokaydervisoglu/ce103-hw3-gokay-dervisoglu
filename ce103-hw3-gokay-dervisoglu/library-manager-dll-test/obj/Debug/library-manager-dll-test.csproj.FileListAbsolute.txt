@@ -1,0 +1,45 @@
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\library-manager-dll-test.dll
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\library-manager-dll-test.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.csproj.AssemblyReference.cache
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.csproj.CoreCompileInputs.cache
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.csproj.CopyComplete
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.dll
+C:\Users\ROG ZEPHYRUS\Desktop\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\library-manager-dll-test.dll
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\library-manager-dll-test.pdb
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.csproj.AssemblyReference.cache
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.csproj.CoreCompileInputs.cache
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.csproj.CopyComplete
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.dll
+C:\Users\ROG ZEPHYRUS\Desktop\CE103-HW3\Benim Ödev\hw3\LibraryManagementApplication\library-manager-dll-test\obj\Debug\library-manager-dll-test.pdb
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\library-manager-dll-test.dll
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\library-manager-dll-test.pdb
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\obj\Debug\library-manager-dll-test.csproj.AssemblyReference.cache
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\obj\Debug\library-manager-dll-test.csproj.CoreCompileInputs.cache
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\obj\Debug\library-manager-dll-test.csproj.CopyComplete
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\obj\Debug\library-manager-dll-test.dll
+C:\Users\gokay\ce103-hw3-gokay-dervisoglu\library-manager-dll-test\obj\Debug\library-manager-dll-test.pdb
